@@ -1,0 +1,29 @@
+.bd{
+    background-color: hsl(230, 18%, 93%);
+    color:#b3b9b9;
+  /* animation: bodyColor 5s infinite; */
+  background: url(mixkit-bright-orange-and-blue-ink-exploding-45675-large.gif);
+
+
+  background-size: cover;
+
+  
+}
+
+.table-header1 {
+    color: #0ed00e;
+    font-size: 1.1em;
+    text-align: center;
+    background: #212121;
+    padding: 18px 0;
+}
+
+.table-body1 {
+    font-size: 1.1em;
+    text-align: center;
+    /* color: #cecece; */
+    background: #1abd8c;
+    padding: 18px 0;
+    color:#000000;
+    font-weight: bold;
+}
